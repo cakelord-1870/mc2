@@ -1,0 +1,14 @@
+/*
+Theme Name: 	IESupply
+Theme URI: 		http://www.independentelectric.ca
+Description: 	IE Supply Bespoke Responsive Theme
+Version: 		1.0
+Author: 		Canydbox Marketing
+Author URI: 	http://www.candyboxmarketing.com
+Tags: 			IE Supply Theme, Responsive, Foundation
+*/
+
+
+@import "css/normalize.css";
+@import "css/foundation.min.css";
+@import "css/app.css";
